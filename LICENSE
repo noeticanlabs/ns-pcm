@@ -1,0 +1,23 @@
+NS-PCM Research License (NoeticanLabs)
+-------------------------------------
+
+Copyright (c) 2026 NoeticanLabs
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use
+the Software for research, education, and non-commercial evaluation.
+
+Commercial use, sublicensing, or incorporation into a commercial product or
+service requires explicit written permission from NoeticanLabs.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+Attribution requirement:
+- Any publication using this repository must cite "NoeticanLabs NS-PCM repository (2026)" and
+  must clearly distinguish proved statements from conjectures as indicated in docs/14_claims_contract.md.
